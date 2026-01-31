@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- AppUpdateChecker -->
-    <!-- 											version_number ↓        ↓ app_name -->
+    <!-- 											version_number ?        ? app_name -->
     <string name="app_update_new_version">Nieuwe versie (%1$s) van %2$s beschikbaar</string>
     <string name="upgrade">Update</string>
     <string name="cancel">Annuleren</string>
